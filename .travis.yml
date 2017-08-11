@@ -21,7 +21,7 @@ before_script:
   - docker-compose -f test/compose/sdc.yml pull
 
 script:
-  - cd test; pytest
+  - cd test; python -m pytest
 
 after_script:
 
