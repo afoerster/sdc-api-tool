@@ -1,3 +1,5 @@
+[![Coverage Status](https://coveralls.io/repos/github/afoerster/sdc-api-tool/badge.svg)](https://coveralls.io/github/afoerster/sdc-api-tool)
+
 # Pipeline Utils
 A set of utilities to help with management of Streamsets pipelines.
 
