@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/phdata/sdc-api-tool.svg?branch=testbranch)](https://travis-ci.org/phdata/sdc-api-tool.svg?branch=testbrancha)
+[![Coverage Status](https://coveralls.io/repos/github/afoerster/sdc-api-tool/badge.svg?branch=master)](https://coveralls.io/github/afoerster/sdc-api-tool?branch=master)
+
 # Pipeline Utils
 A set of utilities to help with management of Streamsets pipelines.
 
